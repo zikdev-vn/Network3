@@ -11,7 +11,7 @@
 
 
 ```bash
-wget https://raw.githubusercontent.com/Rambeboy/Network3/main/setup.sh && chmod +x setup.sh && sudo ./setup.sh
+wget https://raw.githubusercontent.com/zikdev-vn/Network3/main/setup.sh && chmod +x setup.sh && sudo ./setup.sh
 ```
 
 ---
